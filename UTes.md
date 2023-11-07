@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-Video Game merupakan teman masa kecil hingga saat ini, sehingga prodak yang akan dibuat ialah chess game,
+Video Game merupakan teman masa kecilku hingga saat ini, sehingga prodak yang akan dibuat ialah chess game,
 mungkin permaianan catur tidak asing lagi bagi jutaan orang diseluruh dunia,  chees game merupakan permainan strategi, biasanya chess game 
 disebut atau digadang-gadang sebuah permainan untuk melatih strategi perang.
 Permainan catur yang saya buat memiliki keunikan tersendiri, daripada permainan catur yang biasanya. Keunikan yang pertama bentuk bidak catur, 
