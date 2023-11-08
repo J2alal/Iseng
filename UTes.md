@@ -34,7 +34,7 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+Java Swing,
 
 ## 6. Desain User Experience dan User Interface
 
