@@ -38,8 +38,8 @@ bla bla bla
 
 ## 6. Desain User Experience dan User Interface
 
-![](https://cdn.dribbble.com/users/620779/screenshots/2842058/artboard_2.png)
 ![](https://cdn.dribbble.com/users/620779/screenshots/2842088/artboard_2.png)
+![](https://cdn.dribbble.com/users/620779/screenshots/2842058/artboard_2.png)
 ![](https://cdn.dribbble.com/users/620779/screenshots/2842058/attachments/584570/13_settings_bottom.png)
 
 ## 7. Demonstrasi Video
