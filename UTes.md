@@ -1,11 +1,8 @@
 ## 1.1 Latar Belakang
 
-Video Game merupakan teman masa kecilku hingga saat ini, sehingga prodak yang akan dibuat ialah chess game,
-mungkin permaianan catur tidak asing lagi bagi jutaan orang diseluruh dunia,  chees game merupakan permainan strategi, biasanya chess game 
-disebut atau digadang-gadang sebuah permainan untuk melatih strategi perang.
-Permainan catur yang saya buat memiliki keunikan tersendiri, daripada permainan catur yang biasanya. Keunikan yang pertama bentuk bidak catur, 
-yang kedua yaitu apabila bidak kita membunuh bidak lawan akan ada beberapa animasi dan sebaliknya, kedepannya mungkin akan dibuat bebrapa fitur,
-fitur berinteraksi dengan lawan, dan sebagainya
+Video Game adalah teman masa kecilku hingga saat ini, sehingga prodak yang akan dibuat ialah chess game,
+mungkin permaianan catur tidak asing lagi bagi jutaan orang diseluruh dunia, permianan catur merupakan permainan strategi, biasanya permainan catur disebut atau digadang-gadang sebuah permainan untuk melatih strategi perang.
+Permainan catur yang akan dibuat memiliki keunikan tersendiri, daripada permainan catur yang biasanya. Keunikan yang pertama bentuk bidak catur, yang kedua yaitu apabila bidak kita membunuh bidak lawan atau sebaliknya akan ada beberapa animasi, kedepannya mungkin akan dibuat bebrapa fitur, seperti fitur berinteraksi dengan lawan, dan sebagainya
 
 ## 1.2. Deksripsi Teknologi Informasi
 
