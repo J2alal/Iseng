@@ -15,7 +15,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-![](https://sendeyo.com/en/b673fe12df)
+![](https://github.com/J2alal/Source/blob/1d68990cd4994e7dd776be54eca9592911a56003/Masak%20telur.jpeg)
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 Referensi [1](https://scratch.mit.edu/)
